@@ -2,6 +2,7 @@
 How to set up a raspberry pi zero (No wifi) headless via usb
 
 https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/ethernet-gadget 
+https://gist.github.com/superdodd/06b91ba03899e47beb43078b27dc601e
 
 ## Windows
 
