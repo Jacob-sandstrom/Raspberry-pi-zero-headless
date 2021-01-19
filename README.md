@@ -9,8 +9,9 @@ https://gist.github.com/superdodd/06b91ba03899e47beb43078b27dc601e
 ### Driver if windows incorrectly interprits your pi as a COM port
 https://www.driverscape.com/download/usb-ethernet-rndis-gadget 
 
-> Add link for internet  sharing via usb
+### Share internet from computer to pi via usb
 
 ## Mac
 
-> Add link for internet  sharing via usb
+### Internet share from your mac to your pi
+https://support.apple.com/kb/PH25327 
